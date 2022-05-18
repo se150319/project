@@ -1,0 +1,54 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    padding-top: 10px;
+    background-color: #D1C4E9;
+}
+.footer h5{
+    font-weight: 600;
+
+}
+.text-center {
+    padding-top: 40px;
+}
+
+.jumbotron {
+    padding: 40px 30px 40px 30px;
+    margin: 0px auto;
+    background: #9575CD;
+    color: floralwhite;
+}
+
+address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+.our{
+    display: flex;
+}
+.body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.body h2, h3{
+    font-weight: 600;
+}
+
+.Content{
+    margin-left: 17px ;
+}
+.Content h3 small{
+    font-weight: 600;
+    color: black;
+}
